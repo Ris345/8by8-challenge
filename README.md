@@ -9,7 +9,7 @@ Currently, we are working on migrating the existing application to Next.js and T
 - Node.js 18.17+
 - Docker
 
-## Getting Started
+## Getting-Started
 
 1.  Install Node.js version 18.17 or higher. https://nodejs.org/en/download/package-manager
 2.  Install Docker. https://www.docker.com/. If you are running Docker on Windows, note that you will need to have WSL 2 enabled. Please see this documentation for more information on setting up WSL 2. https://learn.microsoft.com/en-us/windows/wsl/install
